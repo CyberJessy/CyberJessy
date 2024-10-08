@@ -16,7 +16,7 @@
 <h2>📜 Certifications</h2>
 
 - [Cisco Cybersecurity (Scp)]![screenshot cyber certificate](https://github.com/user-attachments/assets/67de51e4-6ff2-4571-8b8e-ac76ee99330e)
-- [Cisco Networking Essentials (Scp)]![network cert screenshot](https://github.com/user-attachments/assets/67de51e4-6ff2-4571-8b8e-ac76ee99330e)
+- [Cisco Networking Essentials (Scp)]![image](https://github.com/user-attachments/assets/ee53cb7c-5dc8-4075-8dd5-75ca5103db4d)
 
 - 
 

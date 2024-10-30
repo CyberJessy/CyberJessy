@@ -7,6 +7,8 @@
   - [Nessus Vulnerabilty Scanner](https://github.com/AmazobiAmarachi/Nessus-Vulnerability-Scanner/blob/main/README.md)
   - [Splunk SIEM Lab](https://github.com/AmazobiAmarachi/Splunk-SIEM-Lab/blob/main/README.md)
   - [Cisco Packet Tracer Lab](https://github.com/AmazobiAmarachi/Cisco-Packet-Tracer-Lab/blob/main/README.md)
+  - [Simple Company and Office Configurations Using Cisco Packet Tracer](https://github.com/AmazobiAmarachi/Simple-Company-and-Office-Configurations-Using-Cisco-Packet-Tracer/blob/main/README.md)
+  - [Python Projects](https://github.com/AmazobiAmarachi/Creating-Office-Security-App-Using-Python/blob/main/README.md)
  
 <h2>🛠️ Other Types Of Projects I Do:</h2>
 
